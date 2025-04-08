@@ -40,10 +40,3 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=moddatei.moddatei&left_color=black&right_color=black&left_text=Visitors"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
