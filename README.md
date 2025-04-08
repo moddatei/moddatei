@@ -36,12 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/moddatei/moddatei/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=moddatei.moddatei&left_color=black&right_color=black&left_text=Visitors"  />
 </div>
