@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is moddatei and I'm a Developer, from Germany</h2>
 
 ###
 
@@ -30,9 +30,9 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1260380517442916482/1353886786241433731/image7.gif?ex=67f66693&is=67f51513&hm=675d36153a93f0545944c79df43d8d239bee71de65c0d398cbefe051dc4ae160&"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/moddatei/moddatei/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -40,3 +40,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=moddatei.moddatei&left_color=black&right_color=black&left_text=Visitors"  />
 </div>
 
+###
